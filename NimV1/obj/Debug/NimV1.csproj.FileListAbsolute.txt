@@ -1,0 +1,7 @@
+C:\Users\bhazenstab16\source\repos\NimV1\NimV1\obj\Debug\NimV1.csprojAssemblyReference.cache
+C:\Users\bhazenstab16\source\repos\NimV1\NimV1\obj\Debug\NimV1.csproj.CoreCompileInputs.cache
+C:\Users\bhazenstab16\source\repos\NimV1\NimV1\bin\Debug\NimV1.exe.config
+C:\Users\bhazenstab16\source\repos\NimV1\NimV1\bin\Debug\NimV1.exe
+C:\Users\bhazenstab16\source\repos\NimV1\NimV1\bin\Debug\NimV1.pdb
+C:\Users\bhazenstab16\source\repos\NimV1\NimV1\obj\Debug\NimV1.exe
+C:\Users\bhazenstab16\source\repos\NimV1\NimV1\obj\Debug\NimV1.pdb
